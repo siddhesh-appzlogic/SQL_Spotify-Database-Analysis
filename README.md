@@ -126,4 +126,4 @@ This project is licensed under the MIT License.
 ## 🧑‍💻 Author
 
 **Mr. Siddhesh Walunj**  
-GitHub: https://github.com/SiddheshWalunj
+GitHub: [https://github.com/SiddheshWalunj](https://github.com/siddhesh-appzlogic)
